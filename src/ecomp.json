@@ -1,0 +1,618 @@
+{
+  "type": "FeatureCollection",
+  "name": "IndonesiaProvinces",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "AC",
+        "description": "Aceh",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.6703, 4.6951, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SU",
+        "description": "Sumatera Utara",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.058, 2.115, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SB",
+        "description": "Sumatera Barat",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4593, -0.851, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RI",
+        "description": "Riau",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.8129, 0.511, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JA",
+        "description": "Jambi",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6132, -1.6174, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SS",
+        "description": "Sumatera Selatan",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.309, -3.3194, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BE",
+        "description": "Bengkulu",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.2655, -3.7916, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LA",
+        "description": "Lampung",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.225, -4.5586, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BB",
+        "description": "Bangka Belitung",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.4406, -2.7411, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KR",
+        "description": "Kepulauan Riau",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.6174, 0.9041, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JA",
+        "description": "Jawa Barat",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.6028, -6.9204, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JB",
+        "description": "Jawa Timur",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7325, -7.2754, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JK",
+        "description": "DKI Jakarta",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8283, -6.2088, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BT",
+        "description": "Banten",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.1091, -6.405, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JT",
+        "description": "Jawa Tengah",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.406, -7.1509, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "YO",
+        "description": "Yogyakarta",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4262, -7.7971, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BA",
+        "description": "Bali",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.1889, -8.4095, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NT",
+        "description": "Nusa Tenggara Timur",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.0794, -8.6574, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NB",
+        "description": "Nusa Tenggara Barat",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.1174, -8.65, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KB",
+        "description": "Kalimantan Barat",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4753, -0.0263, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KI",
+        "description": "Kalimantan Timur",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.307, 0.5632, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KU",
+        "description": "Kalimantan Utara",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.0436, 2.8323, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KS",
+        "description": "Kalimantan Selatan",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5609, -3.3194, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KT",
+        "description": "Kalimantan Tengah",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.4246, -1.6174, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GO",
+        "description": "Gorontalo",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.6737, 0.6992, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SA",
+        "description": "Sulawesi Utara",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.3194, 1.5431, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SN",
+        "description": "Sulawesi Selatan",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.3543, -4.6753, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SR",
+        "description": "Sulawesi Barat",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.9526, -2.8027, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ST",
+        "description": "Sulawesi Tengah",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.495, -1.43, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SG",
+        "description": "Sulawesi Tenggara",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.0703, -4.1245, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MA",
+        "description": "Maluku",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.4362, -3.2385, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MU",
+        "description": "Maluku Utara",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.8507, 1.6032, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PB",
+        "description": "Papua Barat",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.9688, -1.3361, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PA",
+        "description": "Papua",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.7273, -5.0734, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PG",
+        "description": "Papua Tengah",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.3877, -4.6333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PP",
+        "description": "Papua Pegunungan",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.8759, -3.9224, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PS",
+        "description": "Papua Selatan",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.9737, -7.0116, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PBD",
+        "description": "Papua Barat Daya",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.5312, -5.0897, 0.0]
+      }
+    }
+  ]
+}
